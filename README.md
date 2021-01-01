@@ -10,7 +10,7 @@ k
 ## Requirement
 
 1. The Heroku toolbelt installed
-
+e
 2. A free Heroku account. [Sign up here](https://signup.heroku.com)d
 
 3. A ngrok account (for ip tunneling). [Sign up here](https://ngrok.com/signup)
